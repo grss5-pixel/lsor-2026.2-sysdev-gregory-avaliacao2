@@ -88,7 +88,7 @@ Você é o responsável pela infraestrutura do **Hackathon IFAL**. O servidor do
 > **🖼️ PRINTS:** `Passo2_1.png` mostrando a janela do VirtualBox com a VM `avaliacao2-<seunome>` (memória e CPU à vista) e o console da VM com o login feito.
 
 *   **Sua resposta:**
-    
+    ![virtualbox](/prints/Arquivo_VBox.png)
 
 ---
 
