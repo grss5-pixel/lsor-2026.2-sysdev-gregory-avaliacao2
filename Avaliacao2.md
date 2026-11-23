@@ -106,7 +106,11 @@ Você é o responsável pela infraestrutura do **Hackathon IFAL**. O servidor do
 
   Então, eu loguei com a conta.
 
-![virtualbox](
+![virtualbox](/prints/VBox_Logado.png)
+
+  E esse foi o resultado:
+
+![virtualbox](/prints/Vbox_Rodando.png)
 
 ---
 
