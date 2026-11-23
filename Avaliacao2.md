@@ -94,7 +94,7 @@ Você é o responsável pela infraestrutura do **Hackathon IFAL**. O servidor do
 
   Em seguida, importei a VBox para Oracle Virtual Box e esse foi o resultado:
 
-![virtualbox2](/prints/VirtualBox_Avaliacao.png)
+![virtualbox2](/prints/VirtualBox_Avalicao.png)
 
 ---
 
