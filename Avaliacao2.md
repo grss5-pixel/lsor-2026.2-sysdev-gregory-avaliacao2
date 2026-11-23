@@ -96,9 +96,6 @@ Você é o responsável pela infraestrutura do **Hackathon IFAL**. O servidor do
 
 ![virtualbox](/prints/VirtualBox_Avaliacao.png)
 
-
-    
-
 ---
 
 ### 🌐 QUESTÃO 2: Diagnóstico da Rede da VM (NAT)
