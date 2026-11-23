@@ -94,9 +94,19 @@ Você é o responsável pela infraestrutura do **Hackathon IFAL**. O servidor do
 
   Em seguida, importei a VBox para Oracle Virtual Box e esse foi o resultado:
 
-![virtualbox2](/prints/VirtualBox_Avalicao.png)
+![virtualbox](/prints/VirtualBox_Avalicao.png)
 
+  Eu verifiquei as propriedades pedidas pela prova e vi que não batiam com o que eu tinha, então alterei as propriedades para baterem com o que foi pedido.
   
+![virtualbox](/prints/VirtualBox_Propriedades_Verificadas.png)
+
+  Após ligar a VM, essa foi a tela:
+
+![virtualbox](/prints/VBox_Aberto.png)
+
+  Então, eu loguei com a conta.
+
+![virtualbox](
 
 ---
 
