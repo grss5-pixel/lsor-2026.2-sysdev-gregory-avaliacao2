@@ -85,10 +85,10 @@ Você é o responsável pela infraestrutura do **Hackathon IFAL**. O servidor do
 4.  *(Recomendado)* Tire um snapshot chamado **`inicio`** para poder voltar ao estado inicial se algo der errado.
 5.  Inicie a VM e faça login com `administrador` / `adminifal`.
 
-> **🖼️ PRINTS:** `q1_vm_importada.png` mostrando a janela do VirtualBox com a VM `avaliacao2-<seunome>` (memória e CPU à vista) e o console da VM com o login feito.
+> **🖼️ PRINTS:** `Passo2_1.png` mostrando a janela do VirtualBox com a VM `avaliacao2-<seunome>` (memória e CPU à vista) e o console da VM com o login feito.
 
 *   **Sua resposta:**
-    [Substitua este texto pelos passos realizados, os prints e a sua frase de interpretação]
+    
 
 ---
 
