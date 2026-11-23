@@ -90,11 +90,12 @@ Você é o responsável pela infraestrutura do **Hackathon IFAL**. O servidor do
 *   **Sua resposta:**
   Copiei o arquivo da rede do ifal pra o PC.
 
-    ![virtualbox](/prints/Arquivo_VBox.png)
+![virtualbox](/prints/Arquivo_VBox.png)
 
   Em seguida, importei a VBox para Oracle Virtual Box e esse foi o resultado:
 
-    ![virtualbox](/prints/VirtualBox_Avaliacao.png)
+![virtualbox](/prints/VirtualBox_Avaliacao.png)
+
 
     
 
