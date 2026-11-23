@@ -127,7 +127,7 @@ Você é o responsável pela infraestrutura do **Hackathon IFAL**. O servidor do
     | :--- | :--- | :--- | :--- |
     | enp0s3 | 172.20.21.12/22 | 08:00:27:8d:e6:b4 | Não identificado |
 
-4.  Faça os testes de conectividade em camadas, do mais próximo ao mais distante:
+3.  Faça os testes de conectividade em camadas, do mais próximo ao mais distante:
     ```bash
     ping -c 4 127.0.0.1
     ping -c 4 10.0.2.2
@@ -138,7 +138,14 @@ Você é o responsável pela infraestrutura do **Hackathon IFAL**. O servidor do
 > **🖼️ PRINTS:** `q2_ip_addr.png` (saída de `ip addr show` e `ip route`) e `q2_ping.png` (os testes de `ping`).
 
 *   **Sua resposta:**
-    [Comandos, tabela preenchida, prints e interpretação. Se algum ping falhar, diga em qual camada está o problema.]
+    
+    Apliquei os dois primeiros comandos e esse foi o resultado. A tabela foi preenchida diretamente.
+
+    ![virtualbox](/prints/VBox_ComandosdeIP.png)
+
+    E eu também, ao realizar os testes de conectividade, percebi que o problema está entre a cadeira e o teclado, pois, errei os comandos 2 vezes por esquecer de colocar o "4".
+
+    ![virtualbox](/prints/VBox_TestedeIPs.png)
 
 ---
 
